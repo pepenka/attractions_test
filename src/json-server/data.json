@@ -1,0 +1,40 @@
+{
+  "attractions": [
+    {
+      "name": "название",
+      "description": "описание",
+      "datetime": "Thu, 03 Apr 2025 19:00:00 GMT",
+      "rating": 1,
+      "photoUrl": "1",
+      "place": "местоположение",
+      "placeLatitude": 1,
+      "placeLongitude": 1,
+      "status": true,
+      "id": "0d59"
+    },
+    {
+      "name": "Эйфелева башня",
+      "description": "башня",
+      "datetime": "Mon, 24 Mar 2025 14:00:00 GMT",
+      "rating": 2,
+      "photoUrl": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB-U11-60OQtq62WcjJWj1shgY6iFNvVN6fkTxV1jU48sLnoWejxB19cmIMSYSgfLK3ZakqjBeas2mG0AEg4yc6OImY3_HEXEayyMuL2DP1JoGi4lAaC614jPld3vguQAVW_Dtg=s1360-w1360-h1020",
+      "place": "Париж",
+      "placeLatitude": 1,
+      "placeLongitude": 1,
+      "status": false,
+      "id": "812f"
+    },
+    {
+      "id": "c137",
+      "name": "тест",
+      "description": "тест",
+      "datetime": "Wed, 14 May 2025 19:00:00 GMT",
+      "rating": 5,
+      "photoUrl": "тест",
+      "place": "тест",
+      "placeLatitude": "5",
+      "placeLongitude": "5",
+      "status": false
+    }
+  ]
+}
